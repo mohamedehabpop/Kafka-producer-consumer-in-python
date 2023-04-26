@@ -2,15 +2,15 @@
 This is a simple example of using Kafka with Python and Docker Compose. The project contains a Kafka producer that sends messages to a Kafka topic, and a Kafka consumer that receives messages from the same topic.
 
 ## Prerequisites
-Docker
-Docker Compose
-Python 3.x
-kafka package installed (pip install kafka-python)
+-Docker
+-Docker Compose
+-Python 3.x
+-kafka package installed (pip install kafka-python)
 
 ## Usage
 To run the project, follow these steps:
 
-Clone this repository: '''bash git clone https://github.com/mohamedehabpop/kafka-producer-consumer-in-python.git '''
+Clone this repository: ' git clone https://github.com/mohamedehabpop/kafka-producer-consumer-in-python.git '
 Navigate to the project directory: '''bash cd kafka-producer-consumer-in-python '''
 Start the Kafka cluster and ZooKeeper with Docker Compose: '''bash docker-compose up '''
 initiate kafka topic with a partition for every consumer and 1 replica for every broker befotre running the producer
