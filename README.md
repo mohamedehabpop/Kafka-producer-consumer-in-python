@@ -1,5 +1,5 @@
 # kafka Producer &Consumer In Python
-This is a simple project using Kafka massaging with Python and Docker Compose. The project contains a Kafka producer that sends messages to a Kafka topic and a Kafka consumer that receives messages from the same topic.
+This is a simple project using Kafka messaging with Python and Docker Compose. The project contains a Kafka producer that sends messages to a Kafka topic and a Kafka consumer that receives messages from the same topic.
 
 ## Prerequisites
 - Docker
