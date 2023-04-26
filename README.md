@@ -3,7 +3,9 @@ This is a simple example of using Kafka with Python and Docker Compose. The proj
 
 ## Prerequisites
 -Docker
+
 -Docker Compose
+
 -Python 3.x
 -kafka package installed (pip install kafka-python)
 
