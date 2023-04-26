@@ -26,8 +26,3 @@ The producer will send messages to the Kafka topic every second. The consumer wi
 To stop the project, use Ctrl+C to stop the consumer and producer, and run docker-compose down to stop the Kafka cluster.
 
 
-## Final result
-![image]9mg width="808" alt="kafka producer" src="https://user-images.githubusercontent.com/83112360/234540086-11bbee9e-4dd3-43e1-b983-c14b98a31a1c.PNG">
-
-
-![image!](kakfka consumer.PNG)
